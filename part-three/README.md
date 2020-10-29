@@ -1,11 +1,3 @@
-# Part Three: Enhancing Freedom
+# Part Three: Attention Is Scarce
 
-So how do we overcome the limits of existing capitalism to let us accelerate the digital knowledge loop? Part Three will propose changes to regulation and self-regulation to increase human freedom. There are three components to this:
-
-1. Economic freedom. We must let everyone meet their basic needs without having to hold a job. This way, we can double down on automation and enable everyone to participate in the knowledge loop.
-
-2. Informational freedom. We must remove boundaries to learning from existing knowledge, creating new knowledge based on what we learn and sharing this new knowledge.
-
-3. Psychological freedom. We must free ourselves from scarcity thinking and its associated fears that impede our participation in the knowledge loop.
-
-Increased individual freedoms are the basis for a smoother transition from the Industrial Age to the Knowledge Age. One that is not dictated top down, but results bottom up from individual choices. Later, in Part Four, I will write about values and systems necessary for collective action in a world of increased individual freedom. 
+To show that attention is scarce, I must establish that there is not enough of it to meet our needs. I will start by defining attention, before presenting several examples of needs that either are already no longer met due to a lack of attention, such as the need for meaning, or are at risk of not being met in the near future. After that, I will consider how much human attention is currently caught up in Industrial Age activities and how an increasing amount of attention is being trapped through our current uses of digital technology, such as advertising-based social networks. I will also discuss why market-based capitalism cannot be used for the allocation of attention.
